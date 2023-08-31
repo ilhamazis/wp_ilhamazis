@@ -1,0 +1,17 @@
+[29-Nov-2022 13:55:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ilhamazis/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 13:55:41 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ilhamazis/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 13:55:41 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ilhamazis/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 13:55:41 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ilhamazis/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 13:55:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ilhamazis/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 13:55:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/ilhamazis/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ilhamazis/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Nov-2022 13:56:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/ilhamazis/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ilhamazis/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Nov-2022 13:57:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ilhamazis/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ilhamazis/public_html/wp-includes/template-canvas.php on line 12

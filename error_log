@@ -1,0 +1,241 @@
+[28-Nov-2022 09:49:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/ilhamazis/public_html/wp-content/plugins/duplicate-wp-page-post/duplicate-wp-page-post.php on line 51
+[28-Nov-2022 09:49:50 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/ilhamazis/public_html/wp-includes/class-wp-theme-json.php on line 818
+[28-Nov-2022 09:50:49 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/ilhamazis/public_html/wp-content/plugins/elementor/includes/template-library/manager.php on line 24
+[28-Nov-2022 09:50:52 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/ilhamazis/public_html/wp-content/plugins/elementor/modules/favorites/types/widgets.php on line 1
+[28-Nov-2022 09:50:57 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 28672 bytes) in /home/ilhamazis/public_html/wp-content/plugins/elementor/modules/favorites/module.php on line 166
+[28-Nov-2022 09:51:00 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 28672 bytes) in /home/ilhamazis/public_html/wp-content/plugins/elementor/modules/favorites/module.php on line 166
+[28-Nov-2022 09:51:15 UTC] WordPress database error Table 'ilhamazis_wp01.wp_litespeed_url_file' doesn't exist for query DELETE FROM wp_litespeed_url_file WHERE `type` = 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('after_setup_theme'), WP_Hook->do_action, WP_Hook->apply_filters, et_core_init, ET_Core_PageResource::remove_static_resources, ET_Core_PageResource::do_remove_static_resources, et_core_clear_wp_cache, do_action('litespeed_purge_all'), WP_Hook->do_action, WP_Hook->apply_filters, LiteSpeed\Purge::purge_all, LiteSpeed\Purge->_purge_all, LiteSpeed\Purge->_purge_all_cssjs, LiteSpeed\Data->url_file_clean
+[28-Nov-2022 09:51:15 UTC] WordPress database error Table 'ilhamazis_wp01.wp_litespeed_url_file' doesn't exist for query DELETE FROM wp_litespeed_url_file WHERE `type` = 2 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('after_setup_theme'), WP_Hook->do_action, WP_Hook->apply_filters, et_core_init, ET_Core_PageResource::remove_static_resources, ET_Core_PageResource::do_remove_static_resources, et_core_clear_wp_cache, do_action('litespeed_purge_all'), WP_Hook->do_action, WP_Hook->apply_filters, LiteSpeed\Purge::purge_all, LiteSpeed\Purge->_purge_all, LiteSpeed\Purge->_purge_all_cssjs, LiteSpeed\Data->url_file_clean
+[28-Nov-2022 12:37:47 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_et_builder_ajax_cache' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[28-Nov-2022 12:37:47 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = '_transient_et_builder_ajax_cache' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[28-Nov-2022 12:37:47 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_et_builder_ajax_cache' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[28-Nov-2022 12:37:47 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = '_transient_et_builder_ajax_cache' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[28-Nov-2022 12:37:49 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_et_builder_ajax_cache' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[28-Nov-2022 12:37:49 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = '_transient_et_builder_ajax_cache' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[28-Nov-2022 12:37:49 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_et_builder_ajax_cache' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[28-Nov-2022 12:37:49 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = '_transient_et_builder_ajax_cache' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[17-Jan-2023 20:03:52 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[17-Jan-2023 20:03:52 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[17-Jan-2023 20:11:45 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[17-Jan-2023 20:11:45 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[21-Jan-2023 14:55:20 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[21-Jan-2023 14:55:20 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[21-Jan-2023 20:30:04 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[21-Jan-2023 20:30:04 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[22-Jan-2023 09:15:38 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[22-Jan-2023 09:15:38 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[22-Jan-2023 10:08:17 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[22-Jan-2023 10:08:17 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[23-Jan-2023 06:59:56 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[23-Jan-2023 06:59:56 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[23-Jan-2023 06:59:57 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[23-Jan-2023 06:59:57 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[23-Jan-2023 16:18:47 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[23-Jan-2023 16:18:47 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[23-Jan-2023 18:20:30 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[23-Jan-2023 18:20:30 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[23-Jan-2023 18:20:32 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[23-Jan-2023 18:20:32 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[24-Jan-2023 00:18:25 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[24-Jan-2023 00:18:25 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[24-Jan-2023 09:15:35 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[24-Jan-2023 09:15:35 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[24-Jan-2023 10:25:57 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[24-Jan-2023 10:25:57 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[26-Jan-2023 06:58:15 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[26-Jan-2023 06:58:15 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[27-Jan-2023 10:21:03 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[27-Jan-2023 10:21:03 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[27-Jan-2023 10:21:06 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[27-Jan-2023 10:21:06 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[27-Jan-2023 11:26:37 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[27-Jan-2023 11:26:37 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[27-Jan-2023 14:56:25 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[27-Jan-2023 14:56:25 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[27-Jan-2023 22:14:18 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[27-Jan-2023 22:14:18 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 09:14:50 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[28-Jan-2023 09:14:50 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 09:15:33 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[28-Jan-2023 09:15:33 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 09:17:08 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[28-Jan-2023 09:17:08 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 09:21:40 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[28-Jan-2023 09:21:40 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 11:45:13 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[28-Jan-2023 11:45:13 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 11:45:17 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[28-Jan-2023 11:45:17 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 11:48:46 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[28-Jan-2023 11:48:46 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 11:48:47 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[28-Jan-2023 11:48:47 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key "image/gif" in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-general.php on line 80
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key "application/pdf" in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-general.php on line 80
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key "application/excel" in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-general.php on line 80
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key "audio/mpeg3" in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-general.php on line 80
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key "video/mp4" in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-general.php on line 80
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key "video/avi" in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-general.php on line 80
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key "image/svg+xml" in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-general.php on line 80
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key "video/webm" in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-general.php on line 80
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Undefined array key 0 in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-posts.php on line 104
+[28-Jan-2023 15:33:47 UTC] PHP Warning:  Attempt to read property "post_date" on null in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/_core/libraries/mixpanel/class-mixpanel-posts.php on line 104
+[28-Jan-2023 15:39:40 UTC] Eror kegiatan penjadwalan ulang Cron untuk hook: elementor_1_elementor_updater_cron, Kode eror: invalid_schedule, Pesan eror: Jadwal event tidak ada., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[28-Jan-2023 15:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stm_module_styles() in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-elementor-widgets/masterstudy-elementor-widgets.php:149
+Stack trace:
+#0 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): Masterstudy_Elementor_Widgets->preview_styles()
+#1 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/ilhamazis/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/ilhamazis/public_html/wp-content/plugins/elementor/includes/preview.php(277): do_action()
+#4 /home/ilhamazis/public_html/wp-content/plugins/elementor/includes/preview.php(103): Elementor\Preview->enqueue_styles()
+#5 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->Elementor\{closure}()
+#6 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#7 /home/ilhamazis/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/ilhamazis/public_html/wp-includes/script-loader.php(2180): do_action()
+#9 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): wp_enqueue_scripts()
+#10 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#11 /home/ilhamazis/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/ilhamazis/public_html/wp-includes/general-template.php(3043): do_action()
+#13 /home/ilhamazis/public_html/wp-content/themes/Divi/header.php(27): wp_head()
+#14 /home/ilhamazis/public_html/wp-includes/template.php(783): require_once('/home/ilhamazis...')
+#15 /home/ilhamazis/public_html/wp-includes/template.php(718): load_template()
+#16 /home/ilhamazis/public_html/wp-includes/general-template.php(48): locate_template()
+#17 /home/ilhamazis/public_html/wp-content/themes/Divi/page.php(3): get_header()
+#18 /home/ilhamazis/public_html/wp-includes/template-loader.php(106): include('/home/ilhamazis...')
+#19 /home/ilhamazis/public_html/wp-blog-header.php(19): require_once('/home/ilhamazis...')
+#20 /home/ilhamazis/public_html/index.php(17): require('/home/ilhamazis...')
+#21 {main}
+  thrown in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-elementor-widgets/masterstudy-elementor-widgets.php on line 149
+[28-Jan-2023 15:40:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stm_module_styles() in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-elementor-widgets/masterstudy-elementor-widgets.php:149
+Stack trace:
+#0 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): Masterstudy_Elementor_Widgets->preview_styles()
+#1 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/ilhamazis/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/ilhamazis/public_html/wp-content/plugins/elementor/includes/preview.php(277): do_action()
+#4 /home/ilhamazis/public_html/wp-content/plugins/elementor/includes/preview.php(103): Elementor\Preview->enqueue_styles()
+#5 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->Elementor\{closure}()
+#6 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#7 /home/ilhamazis/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/ilhamazis/public_html/wp-includes/script-loader.php(2180): do_action()
+#9 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): wp_enqueue_scripts()
+#10 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#11 /home/ilhamazis/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/ilhamazis/public_html/wp-includes/general-template.php(3043): do_action()
+#13 /home/ilhamazis/public_html/wp-content/themes/Divi/header.php(27): wp_head()
+#14 /home/ilhamazis/public_html/wp-includes/template.php(783): require_once('/home/ilhamazis...')
+#15 /home/ilhamazis/public_html/wp-includes/template.php(718): load_template()
+#16 /home/ilhamazis/public_html/wp-includes/general-template.php(48): locate_template()
+#17 /home/ilhamazis/public_html/wp-content/themes/Divi/page.php(3): get_header()
+#18 /home/ilhamazis/public_html/wp-includes/template-loader.php(106): include('/home/ilhamazis...')
+#19 /home/ilhamazis/public_html/wp-blog-header.php(19): require_once('/home/ilhamazis...')
+#20 /home/ilhamazis/public_html/index.php(17): require('/home/ilhamazis...')
+#21 {main}
+  thrown in /home/ilhamazis/public_html/wp-content/plugins/masterstudy-elementor-widgets/masterstudy-elementor-widgets.php on line 149
+[28-Jan-2023 16:09:31 UTC] Eror kegiatan penjadwalan ulang Cron untuk hook: action_scheduler_run_queue, Kode eror: invalid_schedule, Pesan eror: Jadwal event tidak ada., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Jan-2023 05:20:03 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[29-Jan-2023 05:20:03 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[29-Jan-2023 05:20:04 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[29-Jan-2023 05:20:04 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[29-Jan-2023 14:47:34 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[29-Jan-2023 14:47:34 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[29-Jan-2023 15:45:32 UTC] Eror kegiatan penjadwalan ulang Cron untuk hook: stm_listing_cron, Kode eror: invalid_schedule, Pesan eror: Jadwal event tidak ada., Data: {"schedule":"stm_cron_interval","args":[],"interval":86400}
+[29-Jan-2023 15:45:32 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[29-Jan-2023 15:45:32 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[29-Jan-2023 15:45:33 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[29-Jan-2023 15:45:33 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[30-Jan-2023 15:08:10 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[30-Jan-2023 15:08:10 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[30-Jan-2023 15:08:12 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[30-Jan-2023 15:08:12 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[30-Jan-2023 15:59:22 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[30-Jan-2023 15:59:22 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[31-Jan-2023 04:37:23 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[31-Jan-2023 04:37:23 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[31-Jan-2023 04:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php(1945): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php(1666): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php(1502): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ilhamazis/public_html/wp-includes/pluggable.php(542): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ilhamazis/public_html/wp-admin/includes/class-wp-automatic-updater.php(1294): wp_mail()
+#5 /home/ilhamazis/public_html/wp-admin/includes/class-wp-automatic-updater.php(977): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ilhamazis/public_html/wp-admin/includes/class-wp-automatic-updater.php(549): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ilhamazis/public_html/wp-includes/update.php(850): WP_Automatic_Updater->run()
+#8 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): wp_maybe_auto_update()
+#9 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#10 /home/ilhamazis/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ilhamazis/public_html/wp-includes/update.php(290): do_action()
+#12 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): wp_version_check()
+#13 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#14 /home/ilhamazis/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ilhamazis/public_html/wp-cron.php(188): do_action_ref_array()
+#16 {main}
+  thrown in /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php on line 874
+[31-Jan-2023 09:13:37 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[31-Jan-2023 09:13:37 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[31-Jan-2023 09:33:19 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[31-Jan-2023 09:33:19 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[31-Jan-2023 11:12:54 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[31-Jan-2023 11:12:54 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[01-Feb-2023 01:36:58 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[01-Feb-2023 01:36:58 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[01-Feb-2023 04:50:46 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[01-Feb-2023 04:50:46 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[07-Feb-2023 12:02:06 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[07-Feb-2023 12:02:06 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[08-Feb-2023 05:55:53 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[08-Feb-2023 05:55:53 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[08-Feb-2023 07:36:07 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[08-Feb-2023 07:36:07 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[08-Feb-2023 07:36:08 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[08-Feb-2023 07:36:08 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[10-Feb-2023 07:20:00 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[10-Feb-2023 07:20:00 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[11-Feb-2023 17:37:48 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[11-Feb-2023 17:37:48 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[11-Feb-2023 17:38:31 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[11-Feb-2023 17:38:31 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[12-Feb-2023 05:17:35 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[12-Feb-2023 05:17:35 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[12-Feb-2023 05:17:36 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[12-Feb-2023 05:17:36 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[12-Feb-2023 05:17:52 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[12-Feb-2023 05:17:52 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[12-Feb-2023 12:24:29 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[12-Feb-2023 12:24:29 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[12-Feb-2023 12:24:29 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[12-Feb-2023 12:24:29 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[12-Feb-2023 16:57:48 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[12-Feb-2023 16:57:48 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[13-Feb-2023 03:26:14 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[13-Feb-2023 03:26:14 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[13-Feb-2023 22:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php(1945): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php(1666): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php(1502): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ilhamazis/public_html/wp-includes/pluggable.php(542): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ilhamazis/public_html/wp-admin/includes/class-wp-automatic-updater.php(1294): wp_mail()
+#5 /home/ilhamazis/public_html/wp-admin/includes/class-wp-automatic-updater.php(977): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ilhamazis/public_html/wp-admin/includes/class-wp-automatic-updater.php(549): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ilhamazis/public_html/wp-includes/update.php(850): WP_Automatic_Updater->run()
+#8 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): wp_maybe_auto_update()
+#9 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#10 /home/ilhamazis/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ilhamazis/public_html/wp-includes/update.php(290): do_action()
+#12 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(308): wp_version_check()
+#13 /home/ilhamazis/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#14 /home/ilhamazis/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ilhamazis/public_html/wp-cron.php(188): do_action_ref_array()
+#16 {main}
+  thrown in /home/ilhamazis/public_html/wp-includes/PHPMailer/PHPMailer.php on line 874
+[14-Feb-2023 09:16:03 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[14-Feb-2023 09:16:03 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[14-Feb-2023 11:11:43 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[14-Feb-2023 11:11:43 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[14-Feb-2023 13:19:57 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[14-Feb-2023 13:19:57 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[14-Feb-2023 15:01:03 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[14-Feb-2023 15:01:03 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178
+[14-Feb-2023 16:21:28 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 51
+[14-Feb-2023 16:21:28 UTC] PHP Warning:  Undefined array key "elements" in /home/ilhamazis/public_html/wp-content/plugins/arscode-ninja-popups/themes/builder/template.php on line 178

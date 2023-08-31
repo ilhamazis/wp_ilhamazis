@@ -1,0 +1,5 @@
+[29-Nov-2022 13:59:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ilhamazis/public_html/wp-includes/blocks/index.php on line 8
+[29-Nov-2022 13:59:40 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ilhamazis/public_html/wp-includes/blocks/index.php on line 8
+[29-Nov-2022 13:59:40 UTC] PHP Warning:  require(ABSPATHWPINC/blocks/legacy-widget.php): failed to open stream: No such file or directory in /home/ilhamazis/public_html/wp-includes/blocks/index.php on line 11
+[29-Nov-2022 13:59:40 UTC] PHP Warning:  require(ABSPATHWPINC/blocks/legacy-widget.php): failed to open stream: No such file or directory in /home/ilhamazis/public_html/wp-includes/blocks/index.php on line 11
+[29-Nov-2022 13:59:40 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/legacy-widget.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ilhamazis/public_html/wp-includes/blocks/index.php on line 11
